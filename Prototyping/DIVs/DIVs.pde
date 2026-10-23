@@ -117,64 +117,6 @@ float button10X = appWidth * 89.2 / paperWidth;
 float button10Y = appHeight * 70.2 / paperHeight;
 float button10Height = appWidth * 6 / paperWidth;
 float button10Width = appHeight * 6 / paperHeight;
-/*
-float playX = appWidth * 57 / paperWidth;
-float playY = appHeight * 67 / paperHeight;
-float playHeight = appWidth * 5 / paperWidth;
-float playWidth = appHeight * 5 / paperHeight;
-float nextX = appWidth * 57 / paperWidth;
-float nextY = appHeight *  / paperHeight;
-float nextHeight = appWidth * 5 / paperWidth;
-float nextWidth = appHeight * 5 / paperHeight;
-float previousX = appWidth * 57 / paperWidth;
-float previousY = appHeight *  / paperHeight;
-float previousHeight = appWidth * 5 / paperWidth;
-float previousWidth = appHeight * 5 / paperHeight;
-float fastforwardX = appWidth * 57 / paperWidth;
-float fastforwardY = appHeight *  / paperHeight;
-float fastforwardHeight = appWidth * 5 / paperWidth;
-float fastforwardWidth = appHeight * 5 / paperHeight;
-float rewindX = appWidth * 57 / paperWidth;
-float rewindY = appHeight *  / paperHeight;
-float rewindHeight = appWidth * 5 / paperWidth;
-float rewindWidth = appHeight * 5 / paperHeight;
-float loopX = appWidth * 57 / paperWidth;
-float loopY = appHeight *  / paperHeight;
-float loopHeight = appWidth * 5 / paperWidth;
-float loopWidth = appHeight * 5 / paperHeight;
-float button1X = appWidth *  / paperWidth;
-float button1Y = appHeight *  / paperHeight;
-float button1Height = appWidth *  / paperWidth;
-float button1Width = appHeight *  / paperHeight;
-float button2X = appWidth *  / paperWidth;
-float button2Y = appHeight *  / paperHeight;
-float button2Height = appWidth *  / paperWidth;
-float button2Width = appHeight *  / paperHeight;
-float button3X = appWidth *  / paperWidth;
-float button3Y = appHeight *  / paperHeight;
-float button3Height = appWidth *  / paperWidth;
-float button3Width = appHeight *  / paperHeight;
-float button4X = appWidth *  / paperWidth;
-float button4Y = appHeight *  / paperHeight;
-float button4Height = appWidth *  / paperWidth;
-float button4Width = appHeight *  / paperHeight;
-float button11X = appWidth *  / paperWidth;
-float button11Y = appHeight *  / paperHeight;
-float button11Height = appWidth *  / paperWidth;
-float button11Width = appHeight *  / paperHeight;
-float button13X = appWidth *  / paperWidth;
-float button13Y = appHeight *  / paperHeight;
-float button13Height = appWidth *  / paperWidth;
-float button13Width = appHeight *  / paperHeight;
-float button14X = appWidth *  / paperWidth;
-float button14Y = appHeight *  / paperHeight;
-float button14Height = appWidth *  / paperWidth;
-float button14Width = appHeight *  / paperHeight;
-float button10X = appWidth *  / paperWidth;
-float button10Y = appHeight *  / paperHeight;
-float button10Height = appWidth *  / paperWidth;
-float button10Width = appHeight *  / paperHeight;
-*/
 
 //
 rect(imageX,imageY,imageWidth,imageHeight);
@@ -202,39 +144,3 @@ rect(button11X,button11Y,button11Width,button11Height);
 rect(button13X,button13Y,button13Width,button13Height);
 rect(button14X,button14Y,button14Width,button14Height);
 rect(button10X,button10Y,button10Width,button10Height);
-/*
-rect(nextX,nextY,nextWidth,nextHeight);
-rect(previousX,previousY,previousWidth,previousHeight);
-rect(fastforwardX,fastforwardY,fastforwardWidth,fastforwardHeight);
-*/
-/*
-rect(totalprogressX,totalprogressY,totalprogressWidth,totalprogressHeight);
-rect(playX,playY,playWidth,playHeight);
-rect(nextX,nextY,nextWidth,nextHeight);
-rect(previousX,previousY,previousWidth,previousHeight);
-rect(fastforwardX,fastforwardY,fastforwardWidth,fastforwardHeight);
-*/
-/*
-rect(playlistX,playlistY,playlistWidth,playlistHeight);
-rect(borderimage1X,borderimage1Y,borderimage1Width,borderimage1Height);
-rect(curentsongqueueX,currentsongqueueY,currentsongqueueWidth,currentsongqueueHeight);
-rect(progressbarX,progressbarY,progressbarWidth,progressbarHeight);
-rect(currentprogressX,currentprogressY,currentprogressWidth,nameHeight);
-rect(progressleftX,progressleftY,progressleftWidth,progressleftHeight);
-rect(totalprogressX,totalprogressY,totalprogressWidth,totalprogressHeight);
-rect(playX,playY,playWidth,playHeight);
-rect(nextX,nextY,nextWidth,nextHeight);
-rect(previousX,previousY,previousWidth,previousHeight);
-rect(fastforwardX,fastforwardY,fastforwardWidth,fastforwardHeight);
-rect(rewindX,rewindY,rewindWidth,rewindHeight);
-rect(loopX,loopY,loopWidth,loopHeight);
-rect(button1X,button1Y,button1Width,button1Height);
-rect(button2X,button2Y,button2Width,button2Height);
-rect(button3X,button3Y,button3Width,button3Height);
-rect(button4X,button4Y,button4Width,button4Height);
-rect(button11X,button11Y,button11Width,button11Height);
-rect(button13X,button13Y,button13Width,button13Height);
-rect(button14X,button14Y,button14Width,button14Height);
-rect(button10X,button10Y,button10Width,button10Height);
-rect(nameX,nameY,nameWidth,nameHeight);
-*/
